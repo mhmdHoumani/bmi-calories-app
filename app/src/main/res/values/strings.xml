@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TD7</string>
+    <string name="how_fit_am_i">How fit am I?</string>
+    <string name="weight">Weight:</string>
+    <string name="enter_weight_here">weight in kg</string>
+    <string name="height">Height:</string>
+    <string name="enter_height_here">height in cm</string>
+    <string name="gender">Gender:</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="age">Age:</string>
+    <string name="how_much_should_i_eat">How much should I eat?</string>
+    <string name="kg">kg</string>
+    <string name="cm">cm</string>
+    <string name="back">Back</string>
+</resources>

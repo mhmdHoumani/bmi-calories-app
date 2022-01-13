@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="age">
+        <item name="none">None</item>
+        <item name="under">Under 24</item>
+        <item name="over">Over 24</item>
+    </string-array>
+</resources>
